@@ -1,4 +1,4 @@
-# Serverless CI/CD Tutorial
+## Serverless CI/CD Tutorial
 ## Building, testing, and deploying Serverless apps using CodeBuild and CodePipeline
 
 This repo is the demo code for a [three-part tutorial](http://www.1strategy.com/blog/) on managing unit testing, integration testing, and deployment of apps built using the Serverless framework.
